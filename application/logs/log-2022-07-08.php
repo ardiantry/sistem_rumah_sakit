@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-08 16:38:20 --> Query error: Duplicate entry '003573 -7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003573 ', 'RAHMAT SIGIT PURNOMO', 'BANTUL', '1976-10-12', 'Islam', 'KRONGGAHAN 1 RT 05 RW 03 TRIHANGGO, GAMPING, SLEMAN', '0818952775', NULL, NULL, '63', '', '7')
+ERROR - 2022-07-08 17:01:22 --> Query error: Duplicate entry '113809-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113809', 'BOBBY LAUSMANA', 'SLEMAN', '1993-02-20', 'Islam', 'SAMBIROTO RT 005 RW 003 KALASAN SLEMAN', '088239529857', 'L', NULL, '23', '', '6')
+ERROR - 2022-07-08 19:25:37 --> Query error: Duplicate entry '003580-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003580', 'JOY AARON TIRTHA', 'JAKARTA', '2002-05-25', 'Kristen ', 'JALAN LETJEN S.PARMAN KAV.22 YOGYAKARTA', '087776020770', 'L', 'A', '64', '', '7')
+ERROR - 2022-07-08 19:28:57 --> Query error: Duplicate entry '003581-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003581', 'RAZAKI MAHOGRA PRADANA', 'BATAM', '2005-04-18', 'Islam', 'BUMI INTAN PERMAI, GODEAN, SLEMAN', '0896410255349', 'L', 'A', '64', '', '7')
+ERROR - 2022-07-08 23:05:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-08 23:05:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-08 23:05:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-08 23:05:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-08 23:07:07 --> 404 Page Not Found: Adstxt/index

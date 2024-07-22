@@ -1,0 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-12 10:34:11 --> Query error: Duplicate entry '003833-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003833', 'SUTRIYANI', 'KENDARI', '1967-02-28', 'Islam', 'OMAH JOMBOR, SLEMAN', '081226600807', 'P', NULL, '39', '', '7')
+ERROR - 2022-08-12 10:34:13 --> Query error: Duplicate entry '003833-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003833', 'SUTRIYANI', 'KENDARI', '1967-02-28', 'Islam', 'OMAH JOMBOR, SLEMAN', '081226600807', 'P', NULL, '39', '', '7')

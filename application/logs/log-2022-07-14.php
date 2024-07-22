@@ -1,0 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-14 17:03:26 --> Query error: Duplicate entry '113836-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113836', 'EEN SUTRISNO', 'SLEMAN', '1993-07-13', 'Islam', 'SLEMAN', '085758631259', 'L', 'B', NULL, '', '6')
+ERROR - 2022-07-14 17:25:01 --> Query error: Duplicate entry '003614-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003614', 'RIFQI MAULANA HASAN', 'KEBUMEN', '2001-10-12', 'Islam', 'KEBUMEN', '087837331628', 'L', 'O', '64', '', '7')

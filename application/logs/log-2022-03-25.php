@@ -1,0 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-25 17:33:36 --> Query error: Duplicate entry '113321-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113321', 'BHRE HEAVEN PRANADIPA', 'YOGYAKARTA', '2022-11-03', 'Islam', 'GAMPING SLEMAN', '081213679577', 'L', 'B', '17', '', '6')
+ERROR - 2022-03-25 19:10:56 --> Query error: Duplicate entry '113322-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113322', 'RAFANIZAN AQMAR KALANDRA', 'YOGYAKARTA', '2020-03-03', 'Islam', 'MERGANGSAN LOR YOGYAKARTA', '085727199622', 'L', NULL, '17', '', '6')

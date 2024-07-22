@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-22 05:39:12 --> 404 Page Not Found: Faviconpng/index
+ERROR - 2022-02-22 18:00:27 --> Query error: Duplicate entry '113108-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113108', 'NADIA PRADIPTA NARESWARI', 'PADANG', '1997-03-12', 'Islam', 'SENGGOTAN RT11 306ATIRTONIRMOTO', '082220635387', 'P', 'B', '23', '', '6')
+ERROR - 2022-02-22 18:00:28 --> Query error: Duplicate entry '113108-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113108', 'NADIA PRADIPTA NARESWARI', 'PADANG', '1997-03-12', 'Islam', 'SENGGOTAN RT11 306ATIRTONIRMOTO', '082220635387', 'P', 'B', '23', '', '6')

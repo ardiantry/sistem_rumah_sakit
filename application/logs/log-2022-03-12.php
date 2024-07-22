@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-12 15:53:38 --> Query error: Duplicate entry '113226-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113226', 'NADHIRA NASTITI PUTRI', 'JAKARTA', '1995-06-21', 'Islam', 'NGAGLIK SLEMAN', '081325087217', 'P', 'A', NULL, '', '6')
+ERROR - 2022-03-12 16:41:46 --> Query error: Duplicate entry '002532-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('002532', 'ALDILA ASSHATILLA', 'JAKARTA', '1997-04-21', 'Islam', 'JALAN NOGOPURO NO.12', '0882005674515', 'P', 'O', '40', '', '7')
+ERROR - 2022-03-12 19:20:43 --> 404 Page Not Found: RawatJalan/Pasien

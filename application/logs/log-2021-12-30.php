@@ -1,0 +1,28 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-30 03:03:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/simraish/public_html/v2/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2021-12-30 03:03:56 --> Unable to connect to the database
+ERROR - 2021-12-30 11:06:11 --> Query error: Duplicate entry '000064-25' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('000064', 'An. Liam Jevera', 'Tangerang', '2020-01-18', 'Kristen ', 'Cluster Vilagio', '087888779386', NULL, NULL, NULL, '', '25')
+ERROR - 2021-12-30 11:06:12 --> Query error: Duplicate entry '000064-25' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('000064', 'An. Liam Jevera', 'Tangerang', '2020-01-18', 'Kristen ', 'Cluster Vilagio', '087888779386', NULL, NULL, NULL, '', '25')
+ERROR - 2021-12-30 12:50:15 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 13:10:03 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 16:47:49 --> Query error: Duplicate entry '001747-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001747', 'YAUMIL KHAIRIYAH', 'BAU-BAU', '2002-09-09', 'Islam', 'BANTUL, BANGUNTAPAN, DIY', '082187213496', 'P', 'B', '64', '', '7')
+ERROR - 2021-12-30 17:14:34 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 17:17:28 --> Query error: Duplicate entry '001748-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001748', 'FITRIYANA', 'YOGYAKARTA', '1991-04-16', 'Islam', 'BLINGBINGSARI, YOGYAKARTA', '082245541601', 'P', 'B', '37', '', '7')
+ERROR - 2021-12-30 17:21:13 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 17:26:33 --> Query error: Duplicate entry '001749-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001749', 'SAMSUL HADI', 'PEKALONGAN', '1965-02-22', 'Islam', 'JAMBON BARU', '081221786663', 'L', 'B', '40', '', '7')
+ERROR - 2021-12-30 17:28:18 --> Query error: Duplicate entry '001750-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001750', 'MUHAMMAD HAFIZH HAKIM', 'BEKASI', '2006-04-27', 'Islam', 'JOMBOR BARU, SLEMAN, YOGYAKARTA', '088233712366', 'L', 'O', '64', '', '7')
+ERROR - 2021-12-30 17:29:31 --> Query error: Duplicate entry '001751-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001751', 'NABILA ZAHRATUSSHOLIHAH', 'SLEMAN', '2001-02-10', 'Islam', 'JOMBOR BARU', '85800087748', 'P', 'O', '64', '', '7')
+ERROR - 2021-12-30 17:31:29 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 17:33:10 --> Query error: Duplicate entry '001752-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001752', 'ADZRA', 'JAKARTA', '2008-03-29', 'Islam', 'DEPOK, JAWA BARAT', '083819365672', 'P', 'B', '64', '', '7')
+ERROR - 2021-12-30 17:58:03 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 17:58:29 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 17:58:52 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 18:15:05 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 18:33:29 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 19:12:21 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 19:15:20 --> Query error: Duplicate entry '001754-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001754', 'AUDRITAMA PUTRA RAMADHAN', 'BENGKULU', '2002-11-19', 'Islam', 'SAMBISARI PURWOMARTANI, KALASAN, SLEMAN', '081390941171', 'L', 'B', '64', '', '7')
+ERROR - 2021-12-30 19:21:33 --> Query error: Duplicate entry '001755-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001755', 'KUSTINAH', 'SLEMAN', '1963-10-25', 'Islam', 'GATAK, 004/025 DONOKERTO, TURI, SLEMAN', '085729933234', 'P', 'A', '37', '', '7')
+ERROR - 2021-12-30 19:29:42 --> 404 Page Not Found: Assets/img
+ERROR - 2021-12-30 19:35:38 --> Severity: Warning --> A non-numeric value encountered /home/simraish/public_html/v2/application/controllers/Registrasi.php 406
+ERROR - 2021-12-30 20:28:04 --> 404 Page Not Found: Assets/img

@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-08 10:49:08 --> Query error: Duplicate entry '001837-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001837', 'ALEXANDRA HONORA', 'BALI', '2017-12-22', 'Islam', 'JALAN NOGOTIRTO, GAMPING, SLEMAN', '081337885670', 'P', 'B', '37', '', '7')
+ERROR - 2022-01-08 11:11:37 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 11:14:40 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 12:26:14 --> Query error: Duplicate entry '001838-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001838', 'ROLANDO TIGOR', 'MEDAN', '1999-06-25', 'Kristen ', 'KOMPLEK YADARA BLOK. 3 NO.8', '085156252462', 'L', 'A', '64', '', '7')
+ERROR - 2022-01-08 12:45:29 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 16:03:16 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 16:09:48 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 16:24:05 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 16:35:09 --> Query error: Duplicate entry '001846-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001846', 'ARCILLA SALWA MAKAYLA', 'SLEMAN', '2021-07-03', 'Islam', 'KEMUSUH, BANYUREJO, TEMPEL, SLEMAN', '08975881693', 'P', 'AB', '37', '', '7')
+ERROR - 2022-01-08 16:35:09 --> Query error: Duplicate entry '001846-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001846', 'ARCILLA SALWA MAKAYLA', 'SLEMAN', '2021-07-03', 'Islam', 'KEMUSUH, BANYUREJO, TEMPEL, SLEMAN', '08975881693', 'P', 'AB', '37', '', '7')
+ERROR - 2022-01-08 16:36:17 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 16:41:57 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 16:44:35 --> Query error: Duplicate entry '001847-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001847', 'ASKARA BUMI', 'KABUPATEN SEMARANG', '2020-04-15', 'Katholik', 'CEBONGAN LOR, MLATI, SLEMAN', '081807111812', 'L', NULL, '37', '', '7')
+ERROR - 2022-01-08 16:54:03 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 17:03:30 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 17:12:29 --> Query error: Duplicate entry '001848-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001848', 'NURUL ADZLYNA', 'YOGYAKARTA', '1994-10-11', 'Islam', 'PERUM KASONGAN PERMAI D115', '088233889841', 'P', 'B', '40', '', '7')
+ERROR - 2022-01-08 17:37:18 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 17:42:13 --> Query error: Duplicate entry '001849-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001849', 'TRIANI WAHYUNINGSIH', 'SLEMAN', '1981-08-18', 'Islam', 'TEGALSARI, TLOGOADI, MLATI, SLEMAN', '085228777705', 'P', 'B', '40', '', '7')
+ERROR - 2022-01-08 17:56:19 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:01:22 --> Query error: Duplicate entry '001850-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001850', 'MARUPIN', 'PONOROGO', '1985-05-19', 'Islam', 'JAKAL KM. 5,5', '081328639455', 'L', 'B', '40', '', '7')
+ERROR - 2022-01-08 18:01:22 --> Query error: Duplicate entry '001850-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001850', 'MARUPIN', 'PONOROGO', '1985-05-19', 'Islam', 'JAKAL KM. 5,5', '081328639455', 'L', 'B', '40', '', '7')
+ERROR - 2022-01-08 18:05:09 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:14:43 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:24:19 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:25:55 --> Query error: Duplicate entry '001851-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001851', 'NATHAN ENFILLIO ', 'JAKARTA', '2013-04-22', 'Kristen ', 'JALAN KUSBINI NO.55 YOGYAKARTA', '081804091357', 'L', 'A', '37', '', '7')
+ERROR - 2022-01-08 18:31:33 --> Query error: Duplicate entry '001852-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001852', 'ATANASIUS SINDHU ADI PRADANA', 'TEMANGGUNG', '1997-05-01', 'Katholik', 'MARGASARI 132 004/004 JAMPIREJO, TEMANGGUNG', '085743669234', 'L', 'B', '40', '', '7')
+ERROR - 2022-01-08 18:31:33 --> Query error: Duplicate entry '001852-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001852', 'ATANASIUS SINDHU ADI PRADANA', 'TEMANGGUNG', '1997-05-01', 'Katholik', 'MARGASARI 132 004/004 JAMPIREJO, TEMANGGUNG', '085743669234', 'L', 'B', '40', '', '7')
+ERROR - 2022-01-08 18:32:33 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:35:07 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 18:43:45 --> Query error: Duplicate entry '001853-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001853', 'SARAH PUTERI', 'GUMAWANG', '1999-08-17', 'Islam', 'JALAN ABIMANYU, NGEBEL, TAMANTIRTO, BANTUL, YOGYAKARTA', '0882003308434', 'P', 'O', '64', '', '7')
+ERROR - 2022-01-08 18:56:44 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 19:07:18 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 19:13:12 --> Query error: Duplicate entry '001854-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('001854', 'NARENDRA ABYAL FAEYZA', 'SLEMAN', '2013-05-02', 'Islam', 'GATEN 001/005 SUMBERREJO', '081804292533', 'L', 'B', '37', '', '7')
+ERROR - 2022-01-08 19:18:23 --> Severity: Warning --> A non-numeric value encountered /home/simraish/public_html/v2/application/controllers/Registrasi.php 406
+ERROR - 2022-01-08 19:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2022-01-08 19:24:23 --> 404 Page Not Found: Assets/img

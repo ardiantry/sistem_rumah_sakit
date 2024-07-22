@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-09 00:38:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 13:36:52 --> Query error: Duplicate entry '002805-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('002805', 'NASYA YUMNA ALMAHYRA', 'BANTUL', '2018-09-11', 'Islam', 'PANDANSARI, TEGAL TANDAN RT 16 BANGUNTAPAN, BANTUL', '082136461168', 'P', NULL, '37', '', '7')
+ERROR - 2022-04-09 14:10:06 --> Query error: Duplicate entry '113393-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113393', 'ADZAKY KHANAN ANSHORI', 'SLEMAN', '2022-01-04', 'Islam', 'JLN KRADENAN NO 24, MAGUWOHARJO, SLEMAN', '085692789827', 'L', 'B', NULL, '', '6')

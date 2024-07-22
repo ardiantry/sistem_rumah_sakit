@@ -1,0 +1,7 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-18 12:03:01 --> 404 Page Not Found: Pasien/index
+ERROR - 2022-08-18 12:05:55 --> 404 Page Not Found: Pasien/index
+ERROR - 2022-08-18 17:36:43 --> Query error: Duplicate entry '113966-6' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('113966', 'IHSANTI FAIRUZ ANATASYA', 'INDRAMAYU', '2000-08-07', 'Islam', 'JL. GUNUNG BROMO BLOK 15 NO 1, RT/RW 003/008 MARGADADI, INDRAMAYU', '081320980434', 'P', NULL, '17', '', '6')
+ERROR - 2022-08-18 18:55:06 --> Query error: Duplicate entry '003884-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003884', 'YASIR', 'SLEMAN', '2004-12-18', 'Islam', 'PATRAN TEGAL 7A RT.001/RW.021 SIA', '087838558463', 'L', 'O', '64', '', '7')
+ERROR - 2022-08-18 18:55:06 --> Query error: Duplicate entry '003884-7' for key 'pasien.no_rm' - Invalid query: INSERT INTO `pasien` (`no_rm`, `nama_pasien`, `tempat_lahir`, `tanggal_lahir`, `agama`, `alamat`, `no_telp`, `jenis_kelamin`, `golongan_darah`, `pekerjaan`, `keterangan`, `id_klinik`) VALUES ('003884', 'YASIR', 'SLEMAN', '2004-12-18', 'Islam', 'PATRAN TEGAL 7A RT.001/RW.021 SIA', '087838558463', 'L', 'O', '64', '', '7')

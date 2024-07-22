@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-12 11:55:54 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 12:03:24 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 12:08:51 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 12:25:11 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 12:27:44 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 13:27:04 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 13:30:24 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 13:44:51 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 14:50:05 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 15:46:33 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 15:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:10:46 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:38:00 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:41:19 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:48:03 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:51:05 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:53:24 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 16:58:24 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 17:06:16 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 17:22:47 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 17:41:07 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 17:58:52 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 18:10:36 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 18:17:31 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 19:01:24 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 19:10:52 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 19:25:43 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 19:30:27 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 19:38:38 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 19:44:08 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 20:22:45 --> 404 Page Not Found: Assets/img
+ERROR - 2022-02-12 20:44:04 --> 404 Page Not Found: Assets/img

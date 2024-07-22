@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "7.0",
+        "aamdsam/bridging-bpjs": "^1.10",
+        "nullpunkt/lz-string-php": "^1.3"
+    }
+}

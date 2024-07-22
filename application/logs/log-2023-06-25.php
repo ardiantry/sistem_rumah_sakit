@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-06-25 04:40:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 04:40:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 04:40:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 05:53:35 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2023-06-25 09:00:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 10:58:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 10:58:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 10:58:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 10:58:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 10:58:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 10:58:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 12:36:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-25 12:36:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-06-25 12:36:25 --> 404 Page Not Found: Assets/img
+ERROR - 2023-06-25 13:11:26 --> 404 Page Not Found: Env/index
+ERROR - 2023-06-25 13:49:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 13:49:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 13:49:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 13:49:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 13:49:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 13:49:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 15:50:47 --> 404 Page Not Found: Env/index
+ERROR - 2023-06-25 19:37:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 19:37:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 19:37:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 19:37:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 19:37:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-06-25 21:53:02 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-06-25 21:53:02 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-06-25 21:53:02 --> 404 Page Not Found: Faviconico/index
